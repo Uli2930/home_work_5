@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">home_work_5</string>
+    <string name="next">NEXT</string>
+    <string name="geeksgram">GEEKSGRAM</string>
+    <string name="register">REGISTER</string>
+    <string name="email">Email:</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+</resources>
